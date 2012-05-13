@@ -21,5 +21,5 @@ Created the base of a game server from the ground up with a small team. Reverse 
 Created, managed and supported multiple Bukkit plugins, designed for maximum customization by users. Offered support and updates for all plugins for the past year. Keep tabs on upstream changes in both Bukkit as well as any depended upon plugins. Implemented feature requests from users.
 
 ## Education
-Bachelor of Science - Major in Computing Sciences (Fall '07 - Sprint '09)<br>
+Bachelor of Science - Major in Computing Sciences (Fall '07 - Spring '09)<br>
 *Vancouver Island University - Nanaimo, BC* (Pending Completion)
