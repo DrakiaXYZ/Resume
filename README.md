@@ -20,6 +20,11 @@ Created the base of a game server from the ground up with a small team. Reverse 
 
 Created, managed and supported multiple Bukkit plugins, designed for maximum customization by users. Offered support and updates for all plugins for the past year. Keep tabs on upstream changes in both Bukkit as well as any depended upon plugins. Implemented feature requests from users.
 
+### Chef Multicraft Cookbook (Apr. '12 - Present)
+* https://github.com/TheDgtl/chef-repo/tree/master/cookbooks/multicraft
+
+As an introduction to OpsCode Chef I created a cookbook to allow easy deployment of a Multicraft Control Panel as well as multiple Multicraft Daemon nodes. Included is the ability to automatically generate a multicraft.key file if a key is supplied, as well as node discovery to automatically setup daemon and control panel communication.
+
 ## Education
 Bachelor of Science - Major in Computing Sciences (Fall '07 - Spring '09)<br>
 *Vancouver Island University - Nanaimo, BC* (Pending Completion)
